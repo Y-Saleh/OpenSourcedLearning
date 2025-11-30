@@ -1,7 +1,7 @@
 # OpenSourcedLearning
 
 A free, offline-friendly, open-source alternative to paywalled coding platforms.
-Practice algorithms, learn to code, and grow your skills — without subscriptions, logins, or locked content.
+Practice algorithms, learn to code, and grow your skills without subscriptions, logins, or locked content.
 
 🚧 Status: Extremely Early Prototype
 
