@@ -52,7 +52,7 @@ Zero server dependency (offline-first design)
 
 🎯 Goal of the Project
 
-To build a completely free, open-source, offline-capable coding learning platform inspired by Sololearn/LeetCode — without paywalls, without accounts, and without your data leaving your device.
+To build a completely free, open-source, offline-capable coding learning platform inspired by Sololearn/LeetCode without paywalls, without accounts, and without your data leaving your device.
 
 OpenSourcedLearning aims to:
 
